@@ -1,0 +1,22 @@
+Overexpress is above 4.749994125173633 and underexpress is below -3.9217633911510488
+Compared against HSC(46): 
+Ddx3y. Serpinc1. Itgav. Ctbs. Krt10. Fdx1. Apoa1. Serpinb6b. Itih3. Csad. Tbc1d22a. H2-Aa. Ahsg. Gstm4. Bpgm. Hspb1. Tgm2. Iigp1. Vtn. Lmna. Timm8b. Jup. Acot11. Icam1. Serpinh1. Fchsd2. Slc9a1. Try5. Alb. Krt14. Postn. Isg15. Myl1. Gbp5. Naprt. Tceal5. Itih2. Tbxas1. Krt5. Acad10. Krt6a. Krt42. Gstt1. S100a1. Krt17. Krt16
+
+Compared against MPPa(26): 
+Itgav. Ctbs. Ckm. Apoa1. Serpinb6b. Itga2. Csad. H2-Ab1. Tgm2. Iigp1. Ca3. Acot11. Serpinh1. Fchsd2. Cd82. Postn. Isg15. Stra13. Atp8a1. Naprt. Tceal5. Acad10. Trappc8. Gstt1. S100a1. Dennd2d
+
+Compared against MPPb(31): 
+Itgav. Ctbs. Hax1. Itga2. Osbpl7. Sytl1. Tbc1d8b. Tbc1d4. Igf1r. Iigp1. Ca3. Acot11. Icam1. Fchsd2. Mkl2. Slc27a1. Isg15. Kbtbd2. Gbp5. Hsdl1. Mpg. Stra13. Naprt. Tceal5. Gpsm1. Acad10. Trappc8. Rab11fip1. Alkbh7. Gstt1. Dennd2d
+
+Compared against MPPc(31): 
+Hax1. Itga2. Csad. H2-Ab1. Sytl1. Igf1r. Naa35. Ddx60. Iigp1. Tor3a. Gm1966. Acot11. Rapgef6. Fchsd2. Dhx58. Cd82. Tcf4. Ptk7. Slc27a1. Uhrf1bp1. Isg15. Llgl1. Gbp5. Usp42. Stra13. Gpsm1. Rbm43. Acad10. D6Wsu163e. Trappc8. Nucb2
+
+Compared against CLP(16): 
+Ctbs. Cox6b1. Pde2a. Ahsg. Sytl1. Evl. Pnpla2. Serpinh1. Gimap9. Slc27a1. Pld4. Foxo1. Gpsm1. Dph6. Cenpk. Nucb2
+
+Compared against MEP(17): 
+Rabgap1l. Cox6b1. Alg3. Bag3. Pklr. Atp1b2. Slc25a21. Uhrf1bp1. Vmp1. Kbtbd2. Slc7a6os. Them6. Lyrm4. Ndnl2. Mrpl21. Cenpk. Gm40447
+
+Compared against GMP(35): 
+Itgav. Hax1. Ecsit. Pde2a. Kif23. Sytl1. Bag3. Zfc3h1. Dcaf11. Arid5a. Use1. Abcc4. Micu1. Naa35. Tiam1. Edem3. Gm1966. Jmjd8. Ugdh. Sel1l. Fchsd2. Cebpa. Slc7a6os. Pld4. Edem2. Hsdl1. Aen. Stra13. Tti1. Trappc8. Atp6ap2. Mrpl21. B4galnt1. Alkbh7. Nucb2
+

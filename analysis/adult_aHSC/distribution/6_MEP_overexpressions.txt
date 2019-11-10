@@ -1,0 +1,25 @@
+Overexpress is above 4.5880863140567305 and underexpress is below -5.410753311522046
+Compared against HSC(42): 
+Fam126a. Crebbp. Med25. Zc3h14. Med22. Cdk9. Stx2. Slc4a1ap. Nsmce4a. Tex10. Sbno1. Supv3l1. Aarsd1. Anapc4. Cdk12. Top2a. Gigyf2. Rela. Pum1. Nup88. Slc7a5. Ckap5. Cox17. Mrps31. Larp4b. Adnp. Mak16. Gtf2f1. Kti12. Tceb3. Optn. E2f4. Fam114a2. Ciapin1. Acsl4. Ndnl2. Mrps28. Psmg3. Tyms. Vps28. Gins2. Klf13
+
+Compared against aHSC(39): 
+Ddx3y. Pomp. Ezh2. Ppan. Kif15. Wdhd1. Commd1. Phf23. Ube2v2. Zfp800. Hells. Cdca8. Pklr. Ythdc1. Arpp19. Csnk1d. Knop1. Polr2l. Vps53. Rnf115. Polr3h. Hdac7. Orc1. Kat7. Larp4b. Timeless. Stom. Znf131. Pole. Lias. Cdca3. Zmat2. Arl8b. Ddx41. Haus5. 1700020D05Rik. Crip2. Tacc3. Itga4
+
+Compared against MPPa(41): 
+Pik3r4. Orc2. Phactr4. Mapkap1. Fpgs. Svbp. Pgam5. Stx2. Gtf2h1. Larp4. Lrch3. Ncoa6. Prrc2b. Zfp346. Kifc1. Pkn2. 2210016L21Rik. Txnl4a. Serpina1d. Jup. Ivns1abp. Eya3. Sgpp1. Nsa2. Hist2h2aa1. Mrps26. Vrk2. Dhx29. Arfrp1. Lrrc20. Ces2g. Optn. Sirt2. Irgq. Pmm1. Zc3h13. Gemin6. Ints12. Haus5. Mrps15. Prcc
+
+Compared against MPPb(19): 
+Tada3. Tfr2. Ampd3. Phf23. Unkl. Cdca2. Racgap1. Aurkb. Jup. Scin. Arg1. Scyl2. Stom. Ces2g. Taf6l. Kif2c. Gemin6. Mrpl53. Gm40447
+
+Compared against MPPc(9): 
+Kif20b. Apoe. Atl2. Cdk7. Hectd3. Tfrc. Cttn. Fam207a. Minpp1
+
+Compared against CLP(29): 
+Fam126a. Mrps35. Itga5. Mipep. Pwp2. Dnajc6. Siglec1. Lmna. Mapkapk3. Asns. Rapgef6. Diaph3. Tal1. Atg2b. Spout1. Ltv1. Shq1. Enpp4. Ppwd1. Kti12. Minpp1. 1110008L16Rik. Fahd1. Utp6. Clybl. Arl8b. Coa3. Hemgn. Cib1
+
+Compared against CMP(10): 
+Alg3. Bag3. Atp1b2. Slc25a21. Uhrf1bp1. Slc7a6os. Them6. Mrpl21. Cenpk. Gm40447
+
+Compared against GMP(10): 
+Arpc1a. Sept8. Ube2v2. Nfyb. Blvrb. Tal1. Hdac7. Iqsec1. Krt6a. Krt16
+

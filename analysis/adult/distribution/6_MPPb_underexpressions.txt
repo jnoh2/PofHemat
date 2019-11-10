@@ -1,0 +1,22 @@
+Overexpress is above 4.893641146011281 and underexpress is below -3.8665992012787416
+Compared against HSC(32): 
+Hgfac. Ampd3. Fdx1. Tnfrsf14. Sorbs1. Itih4. Hmga1. Ssbp2. Fer1l5. Lum. Tuba1a. Jup. Tgm3. Krt77. Csmd3. Krt76. Tgfbi. Lst1. Arg1. Hspa1a. Krt73. Dsp. Zmym6. Cul7. Gda. Gipc3. Kifap3. Krt6a. Krt42. Krt17. Krt71. Krt16
+
+Compared against MPPa(11): 
+Tfr2. Ampd3. Osbpl11. Zfpm1. Slc28a2. Tuba1a. Myh4. Actn3. Dnajc1. Mydgf. Rpl35a
+
+Compared against MPPc(35): 
+Osbpl11. Zfp691. Phactr2. Bcam. Cdca2. Ubxn2a. Ralgapb. Racgap1. Gtpbp8. Naa35. Knstrn. Aurkb. Slc28a2. Syn1. S100a10. Rfx7. Ssh2. Pptc7. Zfp280c. Morc2a. Dhps. Rhbdd1. Stom. Slc30a9. Sinhcaf. Shtn1. Gipc3. Rilpl2. Znf318. Kif2c. Kbtbd11. Ascc2. Stard5. Cd244. Bub1b
+
+Compared against CLP(35): 
+Cnn3. Mef2c. Rad51ap1. Milr1. Itih4. Hmga1. Phactr2. Lck. Stambpl1. Cdca2. Cdca8. Tonsl. Rrm2. Racgap1. Knstrn. Aurkb. Tuba1a. Jup. Plk1. Dnajc1. Tpm4. Zfp280c. Pld4. Stk17b. Tpx2. Rybp. Taf6l. Egln1. Mef2d. Cdca3. Kif2c. Pclaf. Rpl35a. Rnf4. Bub1b
+
+Compared against CMP(39): 
+Tada3. Rad51ap1. Osbpl11. Rab44. Hspa1l. Phf23. Phactr2. Cdca2. Cdca8. Pi4kb. Racgap1. Ccdc167. Phrf1. Knstrn. Slc28a2. Tuba1a. Jup. Rnf13. Pdgfrb. Itgal. Scin. Atad5. Elmo2. Mef2a. Dnajc1. Zfp280c. Phka2. Scyl2. Smad5. Stom. Sinhcaf. Plcl2. Taf6l. Rnf130. Mef2d. Kif2c. Ascc2. Cd244. Bub1b
+
+Compared against MEP(37): 
+Tada3. Tfr2. Ampd3. Phf23. Unkl. Dohh. Cdca2. Cdca8. Tonsl. Racgap1. Ccdc167. Ccdc137. Zfpm1. Aurkb. Polr2l. Tuba1a. Jup. Asns. Lrrc8c. Sgpp1. Scin. Tfrc. Cox17. Elmo2. Arg1. Scyl2. Stom. Sipa1l1. Ces2g. Optn. Taf6l. Kif2c. Gemin6. Mrpl53. Rnf4. Bub1b. Gm40447
+
+Compared against GMP(64): 
+Tada3. Kntc1. Haus3. Rad51ap1. Pnkd. Ankrd27. Ttc32. Nemf. Kif20b. Osbpl11. Rab44. Riok3. Phf23. Phactr2. Dohh. Cit. Cdca2. Arfip2. Kmt5c. Cdca8. Racgap1. Ccdc167. Prtn3. Knstrn. Aurkb. Slc28a2. Ctsg. Tuba1a. Pxk. Mgat2. F13a1. Nadk. Plk1. Spryd3. Elane. Atad5. Smn1. Osbpl2. Cep350. Dnajc1. Zfp280c. Phka2. Scyl2. Dhps. Npat. Stom. Sipa1l1. Man2a1. Cenpu. Plcl2. Taf6l. Pdia5. Rilpl2. Mrpl3. Kif2c. Selenos. Zmat2. Ascc2. Atp6ap2. B4galnt1. Stard5. Capn7. Bub1b. Ncf1
+

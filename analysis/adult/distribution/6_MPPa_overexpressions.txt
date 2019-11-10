@@ -1,0 +1,22 @@
+Overexpress is above 3.9776538802203127 and underexpress is below -5.07278123421905
+Compared against HSC(41): 
+Crebbp. Ptpre. Pcnt. Zc3h14. Mtpap. Lig1. Efl1. Slc4a1ap. Gapvd1. Tex10. Rfxap. Sbno1. Supv3l1. Aarsd1. Gigyf2. Rela. Cd82. Dhcr7. Hdgfrp2. Slc7a5. Ckap5. Mrps31. Ubxn6. Coro2a. Fhod1. Adnp. Mak16. Hirip3. Rap2c. Pcyox1l. Tceb3. Ccdc12. Rprd1a. Ciapin1. Mrps28. Psmg3. Tyms. Vps28. Atp6v1e2. Gins2. Rp2
+
+Compared against MPPb(10): 
+Tfr2. Ampd3. Osbpl11. Zfpm1. Slc28a2. Tuba1a. Myh4. Actn3. Dnajc1. Rpl35a
+
+Compared against MPPc(15): 
+Ckm. Actg1. Apoe. Tgm2. Gstm2. Ppic. Krt77. Cdk7. Myh4. Tgfbi. Hectd3. Zfp729a. Vars2. Cttn. Krt71
+
+Compared against CLP(46): 
+Ckm. Pak1. Ptpre. Tmod2. Hs1bp3. Tatdn1. Csad. Acss2. Ndufs5. Dnajc6. Smpdl3a. Mpdu1. Gypc. Gstt3. Tgm2. Oxld1. Siglec1. Mtmr3. Serpinb9. Gpd1. Lmna. Serpina1e. Mapkapk3. Cltb. Rab31. Maoa. Tfip11. Mmab. Scamp1. Rasa1. Pbx1. Enpp4. Eif4a2. Aldh5a1. Gda. Ppwd1. Itga6. Fahd1. Clybl. Nadk2. Ccdc97. Hemgn. Hdgfrp3. Plod3. Acot9. Ak4
+
+Compared against CMP(24): 
+Itgav. Ctbs. Ckm. Apoa1. Serpinb6b. Itga2. Csad. H2-Ab1. Tgm2. Iigp1. Ca3. Acot11. Serpinh1. Fchsd2. Cd82. Isg15. Stra13. Naprt. Tceal5. Acad10. Trappc8. Gstt1. S100a1. Dennd2d
+
+Compared against MEP(71): 
+Serpina1b. Kctd12. Pak1. Rab38. Adgrg1. Comp. Arl2bp. Hs1bp3. Serpinb6b. Hnmt. Ptprj. Actg1. Sptan1. Arhgap25. Myo1g. Fam129a. Nab1. Serpinb6a. Lrmp. Slc2a3. Hk2. Arid4a. Ripor2. Atp2a1. Wdfy4. Ripk1. Gbe1. Fam3c. Atp2b4. Erg. Gmds. Casp1. Ppp2ca. Nfic. Arhgap4. Plcb3. Rab31. Galk2. Kdm5a. Arnt. Rasa3. Cpne3. Ralbp1. Trim47. Traf3ip3. Rab27a. Pvalb. Isg15. Pbx1. Epb41l2. Flnb. Rbbp9. Strip1. Ccdc90b. Ago1. Atf7. Atp2a3. Basp1. Krt42. Rab32. Cryl1. Tha1. Tax1bp3. Klc4. Gstk1. Kdelc1. S100a1. Hdgfrp3. Krt17. Gyg. Ak1
+
+Compared against GMP(37): 
+Pdlim2. Ckm. Apoa1. Gns. Xrcc6. H2-T23. Sept8. Lin52. Zc3hav1l. Sdsl. Gstt3. Gstm2. Nfyb. Itgb3. Gtf2a1. Tal1. Lyplal1. Myh4. Ptk7. Lrrc1. Carhsp1. Ganc. Camk1. Eif4a2. Rfk. Tbxas1. Acad10. Krt6a. Ptms. Cryl1. Gstk1. Sgsh. Fbxo6. Padi4. Krt16. Dennd2d. Ak1
+

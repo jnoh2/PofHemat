@@ -1,0 +1,10 @@
+Overexpress is above 2.9457307625227935 and underexpress is below -5.3639219149283095
+Compared against MPPa(47): 
+Fn1. Ggct. Lmnb2. Eed. Fdx1. Kif15. Mapk1ip1l. Tbc1d22a. Mlst8. Cep57. Gstm4. Ube2v2. Ssbp2. Apob. Kdm2a. Uqcrq. Rab29. Dscr3. Krt18. Lyz1. Nfyb. Txnl4a. Jup. Icam1. Eya3. Fbln1. Psmd14. Oard1. Dnmt3b. Psme4. Synrg. Rgn. Hist2h2aa1. Hmga2. Rmnd5a. Mrps26. Dsp. Pik3cg. Hist1h2ak. Optn. Gale. Chchd4. Hdac8. Chmp1a. Rab27b. Sdhc. Atp6ap1
+
+Compared against MPPb(36): 
+Fn1. Hgfac. Eed. Fdx1. Tnfrsf14. Sorbs1. Hmga1. Eif1a. Hspa1l. Padi2. C4b. Ssbp2. C3. Apob. Trf. Fam3c. Fer1l5. Psmb5. Cript. Tuba1a. Jup. Akr1b3. Tgfbi. Lst1. Arg1. Hspa1a. Hmga2. Fry. Dsp. Zmym6. Cul7. Man2a1. Hist1h2bp. Hist1h2ak. Kifap3. Atp6ap2
+
+Compared against MPPc(32): 
+Fn1. Itgav. Suds3. Eed. Fdx1. Apoa1. Hist2h3c1. Actg1. Serpinf1. Serhl. Trf. Psmb5. Cript. Trp53. Ppic. Timm8b. Snrpf. Evi5. H2-DMb1. Akr1b3. Emb. Tpm3. Cnbd2. Tgfbi. Postn. Vars2. Acat3. Cttn. Dsp. Mcur1. Sacs. Atp6ap1
+

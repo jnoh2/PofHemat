@@ -1,0 +1,22 @@
+Overexpress is above 4.893641146011281 and underexpress is below -3.8665992012787416
+Compared against HSC(23): 
+Fam126a. Crebbp. Zc3h14. Mtpap. Ctsa. Tcirg1. Slc4a1ap. Gmpr. Mpo. Sbno1. Supv3l1. Anapc4. Cdk12. Rela. Mtmr2. Ckap5. Ubxn6. Adnp. Kti12. Noc3l. Ciapin1. Vps28. Gins2
+
+Compared against MPPa(24): 
+Mapkap1. Ggct. Lipt2. Kmt2d. Tbc1d22a. Mlst8. Sdhaf2. Ntan1. Aff3. Lrch3. Ncoa6. Gmip. Zfp346. Dscr3. Txnl4a. Serpina1d. Hist2h2aa1. Atp11b. Rmnd5a. Arfrp1. Cnot11. Lrrc20. Sirt2. Zfp292
+
+Compared against MPPc(6): 
+Hist2h3c1. Osbpl7. Ahsa2. Erich1. Cdk7. Cttn
+
+Compared against CLP(23): 
+Fam126a. Mrps35. Pak1. Ptpre. Smpdl3a. Gypc. Siglec1. Gpd1. Mapkapk3. Rab43. Maoa. Mmab. Nr2c1. Paxip1. Ibtk. Enpp4. Ppwd1. Fahd1. Utp6. Hemgn. Hdgfrp3. Plod3. Ak4
+
+Compared against CMP(12): 
+Itgav. Ctbs. Itga2. Osbpl7. Sytl1. Iigp1. Fchsd2. Mkl2. Isg15. Naprt. Gpsm1. Acad10
+
+Compared against MEP(44): 
+Map4k1. Hnmt. Rptor. Actg1. Arhgap15. Ntan1. Smad4. Fam129a. Serpinb6a. Lrmp. Slc2a3. Arid4a. Ripor2. Atp2a1. Wdfy4. Ripk1. Mpo. Rab2b. Casp1. Ppp2ca. Nfic. Itpr3. Arhgap4. Rab31. Arnt. Rasa3. Cpne3. Ralbp1. Traf3ip3. Pbx1. Epb41l2. Flnb. Zfp609. Strip1. Ago1. Atf7. Atp2a3. Hdac8. Rab32. Tha1. Klc4. Gyg. A830080D01Rik. Ak1
+
+Compared against GMP(19): 
+Pdlim2. Osbpl7. Bcl10. Mff. Cpa3. Nfyb. Hist2h2ac. Capn2. Ptk7. Lrrc1. Carhsp1. Ganc. Camk1. Acad10. Ptms. Cryl1. Tpk1. Padi4. Dennd2d
+

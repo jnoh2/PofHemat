@@ -1,0 +1,22 @@
+Overexpress is above 4.504877074633095 and underexpress is below -5.406008177375519
+Compared against HSC(47): 
+Fam126a. Crebbp. Med25. Zc3h14. Med22. Cdk9. Lig1. Stx2. Nob1. Slc4a1ap. Nsmce4a. Tex10. 2210016L21Rik. Sbno1. Supv3l1. Aarsd1. Anapc4. Cdk12. Top2a. Gigyf2. Rela. Pum1. Rrp7a. Nup88. Hdgfrp2. Slc7a5. Ckap5. Cox17. Mrps31. Larp4b. Adnp. Mak16. Gtf2f1. Kti12. Tceb3. Optn. E2f4. Fam114a2. Ciapin1. Acsl4. Ndnl2. Mrps28. Psmg3. Tyms. Vps28. Gins2. Klf13
+
+Compared against MPPa(45): 
+Pik3r4. Orc2. Phactr4. Mapkap1. Fpgs. Svbp. Sdhaf2. Mrpl11. Pgam5. Stx2. Gtf2h1. Larp4. Lrch3. Ncoa6. Prrc2b. Zfp346. Kifc1. Pkn2. 2210016L21Rik. Txnl4a. Serpina1d. Jup. Ivns1abp. Fam98a. Eya3. Sgpp1. Nsa2. Hist2h2aa1. Mrps26. Vrk2. Dhx29. Arfrp1. Lrrc20. Ces2g. Kin. Optn. Sirt2. Irgq. Pmm1. Zc3h13. Gemin6. Ints12. Haus5. Mrps15. Prcc
+
+Compared against MPPb(23): 
+Tada3. Tfr2. Ampd3. Phf23. Unkl. Cdca2. Racgap1. Ccdc167. Zfpm1. Aurkb. Jup. Sgpp1. Scin. Arg1. Scyl2. Stom. Ces2g. Optn. Taf6l. Kif2c. Gemin6. Mrpl53. Gm40447
+
+Compared against MPPc(9): 
+Kif20b. Apoe. Atl2. Cdk7. Hectd3. Tfrc. Cttn. Fam207a. Minpp1
+
+Compared against CLP(32): 
+Fam126a. Mrps35. Itga5. Mipep. Pwp2. Dnajc6. Smpdl3a. Siglec1. Lmna. Lum. Mapkapk3. Asns. Rapgef6. Diaph3. Tal1. Atg2b. Spout1. Ltv1. Shq1. Enpp4. Ppwd1. Kti12. Minpp1. 1110008L16Rik. Fahd1. Utp6. Clybl. Arl8b. Nadk2. Coa3. Hemgn. Cib1
+
+Compared against CMP(10): 
+Alg3. Bag3. Atp1b2. Slc25a21. Uhrf1bp1. Slc7a6os. Them6. Mrpl21. Cenpk. Gm40447
+
+Compared against GMP(13): 
+Arpc1a. Sept8. Ube2v2. Nfyb. Blvrb. Tal1. Hdac7. Scin. Pcbp3. Iqsec1. Krt6a. Bcl11a. Krt16
+

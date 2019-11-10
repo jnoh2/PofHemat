@@ -1,0 +1,25 @@
+Overexpress is above 3.989928751257821 and underexpress is below -5.0625430735157515
+Compared against HSC(10): 
+Ggct. Tbc1d22a. Serpina1d. Jup. Icam1. Synrg. Try10. Selm. Chmp1a. Atp6ap1
+
+Compared against aHSC(13): 
+Serpinb8. Zfp346. Zfand5. Krt18. St3gal1. Icam1. Synrg. Ldhd. Mrps26. Optn. Selm. Clca3a1. Srr
+
+Compared against MPPb(19): 
+Mapkap1. Ggct. Kmt2d. Tbc1d22a. Mlst8. Ntan1. Aff3. Lrch3. Ncoa6. Gmip. Zfp346. Dscr3. Txnl4a. Serpina1d. Atp11b. Cnot11. Lrrc20. Sirt2. Zfp292
+
+Compared against MPPc(30): 
+Pik3r4. Mapkap1. Repin1. Cars2. Mlst8. Sdhaf2. Ntan1. Aff3. Ncoa6. Gmip. Zfp346. Rhot2. Dscr3. Gm1966. Eya3. Dcp1b. Tram1. Maea. Synrg. Hist2h2aa1. Msl1. Atp11b. Vrk2. Dhx29. H2afy2. Arfrp1. Kin. Sirt2. Zfp292. Tcf20
+
+Compared against CLP(11): 
+Lipt2. Mark2. Zfp346. Kifc1. 2210016L21Rik. Prkcb. Ivns1abp. Hist2h2aa1. Mrps26. Rybp. Gemin6
+
+Compared against CMP(29): 
+Pik3r4. Mapkap1. Ggct. Kmt2d. Ntan1. Lrch3. Ncoa6. Gmip. Zfp346. Mpo. Kifc1. Pkn2. Dscr3. Txnl4a. Ivns1abp. Eya3. Tram1. Nsa2. Synrg. Msl1. Mrps26. Vrk2. Arfrp1. Kin. Optn. Sirt2. Ints12. Zfp292. Selenok
+
+Compared against MEP(30): 
+Pik3r4. Phactr4. Fpgs. Pgam5. Stx2. Gtf2h1. Larp4. Ncoa6. Zfp346. Kifc1. Pkn2. 2210016L21Rik. Txnl4a. Ivns1abp. Eya3. Nsa2. Hist2h2aa1. Mrps26. Vrk2. Arfrp1. Lrrc20. Ces2g. Optn. Sirt2. Pmm1. Gemin6. Ints12. Haus5. Mrps15. Prcc
+
+Compared against GMP(43): 
+Pik3r4. Mapkap1. Anxa3. Hax1. Kmt2d. Tbc1d22a. Sdhaf2. Tkfc. Ntan1. Gtf2h1. Lrch3. Gmip. Zfp346. Mpo. Kifc1. Pkn2. Dscr3. Abcd1. Ivns1abp. Aars2. Gm1966. Eya3. Itm2b. Rbpj. Maea. Nsa2. Synrg. Hist2h2aa1. Atp11b. Rmnd5a. Mrps26. Vrk2. Dhx29. Arfrp1. Fes. Sec63. Fndc3a. Sirt2. Zfp292. Haus5. Mrps15. Selenok. Atp6ap1
+

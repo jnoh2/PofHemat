@@ -1,0 +1,22 @@
+Overexpress is above 4.749994125173633 and underexpress is below -3.9217633911510488
+Compared against HSC(40): 
+Fam126a. Crebbp. Med25. Zc3h14. Tbc1d5. Lig1. Med16. Slc4a1ap. Nsmce4a. Mpo. Sbno1. Supv3l1. Bin1. Sp3. Anapc4. Cdk12. Rela. Rin3. Pum1. Nup88. Slc7a5. Mtmr2. Brd3. Ckap5. Mrps31. Coro2a. Adnp. Mak16. Hirip3. Dock8. Ppwd1. Kti12. Tceb3. Ciapin1. Acsl4. Psmg3. Tyms. Vps28. Gins2. Acaca
+
+Compared against MPPa(45): 
+Pik3r4. Mapkap1. Anxa3. Ggct. Repin1. Kmt2d. Mlst8. Pgam5. Stx2. Ntan1. Lrch3. Ncoa6. Atxn7l3. Gmip. Bcas3. Zfp346. Mpo. Kifc1. Pkn2. Rhot2. 2210016L21Rik. Dscr3. Zfand5. Txnl4a. Ivns1abp. Aars2. Eya3. Rbpj. Tram1. Nsa2. Synrg. Msl1. Micall2. Mrps26. Vrk2. Dhx29. Arfrp1. Cnot11. Kin. Optn. Sirt2. Ints12. Zfp292. Haus5. Selenok
+
+Compared against MPPb(14): 
+Tada3. Rab44. Phactr2. Racgap1. Knstrn. Jup. Scin. Dnajc1. Scyl2. Stom. Taf6l. Kif2c. Ascc2. Bub1b
+
+Compared against MPPc(8): 
+Zeb2. Mboat7. Apoe. Cdk7. Hectd3. Vars2. Cttn. Fam134c
+
+Compared against CLP(27): 
+Fam126a. Mrps35. Ptpre. Mipep. Dnajc6. Smpdl3a. Zfp687. Acsl3. Phrf1. Gypc. Oxld1. Siglec1. Serpina1e. Mapkapk3. Diaph3. Maoa. Atad2b. Paxip1. Ibtk. Enpp4. Cog2. Ppwd1. Kti12. Fahd1. Utp6. Hemgn. Plod3
+
+Compared against MEP(40): 
+Map4k1. Rab44. Hnmt. Actg1. Arhgap15. Ntan1. Lrmp. Hk2. Ripor2. Cds2. Wdfy4. Ripk1. Mpo. Rab2b. Casp1. Kmt2a. Ppp2ca. Nfic. Itpr3. Arhgap4. Pip4p1. Rab31. Arnt. Fam111a. Itgal. Traf3ip3. Zfp64. Dnajc1. Rabac1. Epb41l2. Flnb. Pgm3. Strip1. Ago1. Atf7. Hdac8. Brms1. Tha1. A830080D01Rik. Ak1
+
+Compared against GMP(7): 
+Pdlim2. Fyb. Nfyb. Lrrc1. Ncs1. Ptms. Bcl11a
+

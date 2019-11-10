@@ -1,0 +1,22 @@
+Overexpress is above 5.158796918630233 and underexpress is below -4.248451763202813
+Compared against HSC(41): 
+Pdlim2. Txnrd2. Fdx1. Apoa1. Gns. Sept8. Glipr2. Adck3. Gstt3. Apoh. Serpinb9. Car2. Gstm2. Nfyb. Serpinh1. Abcg2. Ptk7. Homer3. Alb. Lrrc1. Carhsp1. Krt14. Hmga2. Ganc. Dsp. Eif4a2. Itih2. Tbxas1. Selm. Krt5. Smim8. Acad10. Cnrip1. Krt6a. Ptms. Cryl1. Gstk1. Tpk1. Padi4. Krt16. Ak1
+
+Compared against MPPa(32): 
+Pdlim2. Ckm. Apoa1. Gns. Xrcc6. H2-T23. Lin52. Zc3hav1l. Gstt3. Gstm2. Itgb3. Gtf2a1. Tal1. Myh4. Ptk7. Lrrc1. Carhsp1. Ganc. Camk1. Eif4a2. Rfk. Tbxas1. Acad10. Krt6a. Ptms. Cryl1. Gstk1. Sgsh. Padi4. Krt16. Dennd2d. Ak1
+
+Compared against MPPb(35): 
+Pdlim2. Adgrl4. Gns. Osbpl7. Nmnat1. Bcl10. Mff. Tbc1d4. Fyb. Cpa3. Nfyb. Hist2h2ac. Capn2. Ipo13. Ptk7. Afg1l. Homer3. Lrrc1. Carhsp1. Rictor. Ganc. Trim65. Camk1. Acad10. Ptms. Cryl1. Echdc3. Gstk1. Sgsh. Fbxo6. Tpk1. Vezf1. Padi4. Dennd2d. Ak1
+
+Compared against MPPc(44): 
+Pdlim2. Zfp629. Adgrl4. Pomgnt2. Xrcc6. Mtif3. Stap1. Mff. Panx1. Ralgapb. Igf1r. Fyb. Zbtb21. Klc2. Nfyb. Acot11. S100a10. Tal1. Capn2. Mtm1. Hook2. Ptk7. Zfp608. Pbx2. Lrrc1. Carhsp1. Rictor. Ganc. Adal. Trim65. Camk1. Osbpl1a. Zfp62. Mllt1. Tubg2. Bloc1s4. Acad10. Ptms. Cryl1. Cbx8. Bcl11a. Tpk1. Padi4. Ak1
+
+Compared against CLP(20): 
+Pdlim2. Mef2c. Lin52. Myl4. Plekha2. Nfyb. Serpinh1. Pbx2. Tapt1. Slc27a1. Carhsp1. Gm5409. Fbxo5. Trim65. Satb1. Ptms. Nusap1. Bcl11a. Krt16. LOC108167440
+
+Compared against CMP(15): 
+Pdlim2. Bcl10. Orc5. Susd1. Fyb. Nfyb. Tal1. Hdac7. Lrrc1. Rictor. Ncs1. Ptms. Bcl11a. Tpk1. Vezf1
+
+Compared against MEP(18): 
+Arpc1a. Sept8. Ube2v2. Fyb. Polr2l. Nfyb. Blvrb. Tal1. Hdac7. Scin. Carhsp1. Pcbp3. Rfk. Iqsec1. Krt6a. Wdr73. Bcl11a. Krt16
+

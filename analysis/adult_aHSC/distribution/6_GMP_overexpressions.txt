@@ -1,0 +1,25 @@
+Overexpress is above 5.243505002922534 and underexpress is below -4.313992072159648
+Compared against HSC(29): 
+Ncf2. Fam126a. Zc3h14. Mtpap. Hspa13. Tcirg1. Med16. Slc4a1ap. Gmpr. Mpo. Sbno1. Cdkal1. Supv3l1. Anapc4. Cdk12. Rin3. Ckap5. Adnp. Hirip3. Ppip5k2. Ppwd1. Kti12. Tceb3. Stx18. Ciapin1. Acsl4. Tyms. Gins2. Acaca
+
+Compared against aHSC(33): 
+Anxa3. Pomp. Haus3. Ezh2. Kif15. Vps13a. Parl. Chaf1b. Cdca8. Arpp19. Csnk1d. Becn1. Impdh1. Sp140. Knop1. Nxn. Vps53. Ccdc117. Vps41. Ube2o. Gemin2. Timeless. Tm9sf4. Stom. Fes. Znf131. Pole. Lias. Cdca3. Zmat2. Trappc8. Ddx41. Tacc3
+
+Compared against MPPa(33): 
+Pik3r4. Anxa3. Hax1. Tbc1d22a. Sdhaf2. Tkfc. Ntan1. Gtf2h1. Lrch3. Gmip. Zfp346. Mpo. Kifc1. Dscr3. Abcd1. Aars2. Gm1966. Eya3. Itm2b. Nsa2. Synrg. Hist2h2aa1. Atp11b. Mrps26. Vrk2. Dhx29. Arfrp1. Fes. Sec63. Fndc3a. Sirt2. Zfp292. Atp6ap1
+
+Compared against MPPb(15): 
+Rab44. Phactr2. Cdca2. Knstrn. Slc28a2. F13a1. Elane. Dnajc1. Phka2. Stom. Kif2c. Ascc2. Atp6ap2. B4galnt1. Bub1b
+
+Compared against MPPc(14): 
+Zeb2. Cog6. Hist2h3c1. Kif20b. Trappc11. Mboat7. Cdk7. Hectd3. Cbx4. Slc38a2. Kiaa2013. Fam134c. B4galnt1. Atp6ap1
+
+Compared against CLP(27): 
+Pigk. Fam126a. Mrps35. Clec12a. Pak1. Ptpre. Mipep. Hspa13. Smpdl3a. Ctsg. Mapkapk3. Hk3. Maoa. Cog1. Atad2b. Spout1. Paxip1. Ibtk. Enpp4. Gda. Cog2. Ppwd1. Fahd1. Utp6. Plod3. Atp6ap1. Ak4
+
+Compared against CMP(9): 
+Itgav. Hax1. Pde2a. Arid5a. Jmjd8. Edem2. Trappc8. Atp6ap2. Nucb2
+
+Compared against MEP(28): 
+Rab44. Hnmt. Arhgap15. Hk2. Ripor2. Wdfy4. Ripk1. Mpo. Jarid2. Casp1. Rab31. Fam111a. Dnajc1. Rabac1. Ckap2l. Flnb. Pgm3. Mcm10. Pnisr. Ankrd11. Strip1. Man2a1. Cenpu. Atp6ap2. Rab32. Plod3. Gsg2. A830080D01Rik
+

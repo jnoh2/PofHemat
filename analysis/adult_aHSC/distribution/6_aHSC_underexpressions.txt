@@ -1,0 +1,25 @@
+Overexpress is above 4.3848324472921085 and underexpress is below -4.68717965334401
+Compared against HSC(15): 
+Ddx3y. Ckm. Fdx1. Kif15. Tbc1d22a. Gstm4. Col6a1. Arpp19. Atp2a1. Vtn. Tuba1a. F13b. Vps53. Krt42. Krt17
+
+Compared against MPPa(10): 
+Ckm. Ezh2. Commd1. Actg1. Arpp19. Atp2a1. Becn1. Pvalb. Krt17. Itga4
+
+Compared against MPPb(29): 
+Ezh2. Vps13a. Kmt2d. Parl. Osbpl7. Commd1. Dennd5b. Rnf25. Tlk2. Ly9. Arpp19. Atp2a1. Becn1. Impdh1. Sp140. Knop1. Vps18. Arhgap27. Kat7. Ccdc117. Vps41. Timeless. Znf131. Pagr1a. Fabp4. Trappc8. Zfp292. Itga4. Ripk2
+
+Compared against MPPc(44): 
+Ddx3y. Ezh2. Tmem192. Bud13. Vps13a. Parl. Fgd2. Commd1. Dsn1. Zmym3. Zfp800. Rnf25. Tlk2. Ly9. Zfp451. Baz2b. Csnk1d. Becn1. Impdh1. Rapgef2. Map2k3. Vps53. Vps18. Arhgap27. Tapt1. Fiz1. Orc1. Ccdc117. Vps41. Ube2o. Llgl1. Timeless. Usp11. Fes. Cd72. Znf131. Sgpl1. Pole. Trappc8. Ddx41. Cdca7. Tacc3. Epb41l4b. Itga4
+
+Compared against CLP(32): 
+Pomp. Ezh2. Pde2a. Bud13. Kif15. Vps13a. Fgd2. Commd1. Actg1. Chaf1b. Hells. Tlk2. Cdca8. Arpp19. Csnk1d. Impdh1. Aim2. Nxn. Vps53. Tapt1. Larp4b. Tpm4. Ccdc117. Gm5409. Timeless. Rybp. Washc1. Pole. Cdca3. Tacc3. Itga4. Klf13
+
+Compared against CMP(34): 
+Ezh2. Kif15. Vps13a. Kmt2d. Fam162a. Phf23. Chaf1b. Rnf25. Hells. Cdca8. Arpp19. Pi4kb. Csnk1d. Becn1. Knop1. Patl1. Vps18. Hdac7. Arhgap27. Tapt1. Orc1. Larp4b. Ccdc117. Ube2o. Gemin2. Timeless. Stom. Znf131. Pole. Cdca3. Ddx41. Cdca7. Tacc3. Itga4
+
+Compared against MEP(36): 
+Ddx3y. Pomp. Ezh2. Ppan. Kif15. Wdhd1. Commd1. Phf23. Ube2v2. Zfp800. Hells. Cdca8. Pklr. Ythdc1. Arpp19. Csnk1d. Knop1. Polr2l. Vps53. Polr3h. Hdac7. Orc1. Larp4b. Timeless. Stom. Znf131. Pole. Lias. Cdca3. Zmat2. Arl8b. Ddx41. Haus5. 1700020D05Rik. Tacc3. Itga4
+
+Compared against GMP(58): 
+Ncf2. Anxa3. Pomp. Haus3. Ezh2. Ppan. Bud13. Kif15. Vps13a. Kmt2d. Parl. Commd1. Dsn1. Chaf1b. Hells. Abraxas1. Cdca8. Arpp19. Csnk1d. Becn1. Impdh1. Sp140. Knop1. Nxn. Vps53. Sel1l. Polr3h. Vps18. Polr3e. Orc1. Larp4b. Ccdc117. Phka2. Vps41. Ube2o. Gemin2. Dhps. Timeless. Tm9sf4. Stom. Ankrd46. Acox3. Fes. Znf131. Sgpl1. Fndc3a. Gcc1. Pole. Lias. Cdca3. Zmat2. Trappc8. Ddx41. Cdca7. Zfp292. Haus5. Tacc3. Itga4
+

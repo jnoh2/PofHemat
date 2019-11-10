@@ -1,0 +1,10 @@
+Overexpress is above 4.963126979693569 and underexpress is below -3.6651916714122854
+Compared against HSC(15): 
+Fn1. Fdx1. C4b. Ssbp2. Apob. Trf. Tuba1a. Jup. Akr1b3. Tgfbi. Arg1. Hspa1a. Hmga2. Dsp. Kifap3
+
+Compared against MPPa(15): 
+Tfr2. Osbpl11. Hmga1. Ndufs5. Uqcc1. Slc28a2. Tuba1a. Akr1b3. Actn3. Ltf. Dnajc1. Rbm14. Mydgf. Ccdc97. Rpl35a
+
+Compared against MPPc(64): 
+Kntc1. Ryr2. Mblac2. Rmdn2. Arl15. Osbpl11. Hspa1l. Zfp691. Phf23. Phactr2. Cdca2. Ubxn2a. Kmt5c. C3. Ralgapb. Chil3. Racgap1. Gtpbp8. Naa35. Knstrn. Ngp. Aurkb. Slc28a2. Syn1. Car2. S100a8. Cramp. Tuba1a. Marcks. S100a10. Crtc2. Rfx7. S100a9. Itgal. Uhrf1bp1. Zc3h12a. Tasor2. Cep350. Ltf. Ssh2. Rbm12b2. Pptc7. Zfp280c. Morc2a. Sort1. Dhps. Rhbdd1. Stom. Slc30a9. Sinhcaf. Shtn1. Rilpl2. Mrpl3. Znf318. Kif2c. Kbtbd11. Ascc2. Vps50. Atp6ap2. Stard5. Cd244. Capn7. Bub1b. Ift20
+

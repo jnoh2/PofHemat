@@ -1,0 +1,25 @@
+Overexpress is above 5.065341184310805 and underexpress is below -3.757630842299934
+Compared against HSC(44): 
+Fn1. Spp2. Itgav. Ckm. Comp. Fdx1. Apoa1. Hist2h3c1. Itih4. Thbs4. Trp63. C3. Serpinf1. Apoe. Tgm2. Trp53. Gstm2. Vtn. Ppic. Evi5. Krt77. Thbs1. Pros1. Krt76. Tgfbi. Krt14. Krt73. Vars2. Ldhd. Cttn. Dsp. Tceal5. Itih2. Cbr3. Krt5. Art4. Krt6a. Krt42. Mcur1. Sacs. Krt17. Krt71. Atp6ap1. Krt16
+
+Compared against aHSC(29): 
+Itgav. Fam213b. Mboat7. Gal3st4. Apoe. Tgm2. Prkaca. Trp53. F11r. Gstm2. Prkca. St3gal1. Cdk7. Lrch2. Hectd3. Chek2. Dusp23. Vars2. Ldhd. Cttn. Rab3d. Ralb. Cbr3. Procr. Fuom. Ppp6r2. Art4. Krt71. Rfxank
+
+Compared against MPPa(18): 
+Spp2. Ckm. Actg1. Apoe. Tgm2. Gstm2. Ppic. Krt77. Pros1. Cdk7. Myh4. Tgfbi. Hectd3. Zfp729a. Vars2. Cttn. Krt17. Krt71
+
+Compared against MPPb(25): 
+Dcun1d2. Cog6. Hist2h3c1. Osbpl7. Actg1. Trappc11. Dpysl4. Ahsa2. Apoe. Prkaca. Evi5. Erich1. Cdk7. Hectd3. Vti1a. Dusp23. Vars2. Cttn. Fabp4. Fam134c. Mcur1. Atp6ap1. Myh2. Rfxank. Flcn
+
+Compared against CLP(22): 
+Pyhin1. Pde2a. Kif20b. Itih4. Actg1. Tifa. Trp53. Prkca. Evi5. Pros1. Atl2. Cdk7. Tfrc. Chek2. Dnajc1. Vars2. Gm5409. Cttn. Fam207a. Cbx4. Mef2d. Fam134c
+
+Compared against CMP(27): 
+Zeb2. Cog6. Kif20b. Actg1. D17Wsu92e. Trappc11. Mboat7. Rlf. Pi4kb. Apoe. Prkaca. Tdg. Erich1. Cdk7. Hectd3. Chek2. Dnajc1. Vars2. Cttn. Minpp1. Cbx4. Mrpl38. Slc35b2. Mef2d. Fam134c. Chm. Atp6ap1
+
+Compared against MEP(25): 
+Zeb2. Kif20b. Cep85. Ube2v2. Trappc11. Smim20. Apoe. Ivns1abp. Atl2. Sgpp1. Cdk7. 3110002H16Rik. Hectd3. Tfrc. Cox17. Ctnna2. Vars2. Cttn. Fam207a. Minpp1. Mrpl51. Fam134c. Fam96a. Atp6ap1. Gm40447
+
+Compared against GMP(52): 
+Zeb2. Ythdc2. Bud23. Cog6. Orc6. Hist2h3c1. Kif20b. Yipf4. Actg1. Mospd2. Trappc11. Mboat7. Eif2b1. Zwilch. Ncam1. Mpo. Asap1. 1600014C10Rik. Prkaca. Mthfd2. Atl2. Cdk7. Polr3e. 3110002H16Rik. Fam111a. Hectd3. Tfrc. Chek2. Dnajc1. Trim27. Tbc1d22b. Armh3. Vars2. Npat. Rab3d. Uvrag. Fam207a. Minpp1. Cbx4. Slc38a2. Neil3. Zbtb1. Kiaa2013. Slc35b2. Selenos. Fam134c. Selt. B4galnt1. Tjap1. Ap3m1. Atp6ap1. Gys1
+

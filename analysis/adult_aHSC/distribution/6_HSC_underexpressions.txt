@@ -1,0 +1,25 @@
+Overexpress is above 4.306356515404967 and underexpress is below -5.408263142319718
+Compared against aHSC(4): 
+Zc3h14. Ctsa. Supv3l1. Adnp
+
+Compared against MPPa(10): 
+Zc3h14. Slc4a1ap. Supv3l1. Rela. Ckap5. Mrps31. Adnp. Ciapin1. Mrps28. Tyms
+
+Compared against MPPb(11): 
+Zc3h14. Slc4a1ap. Mpo. Supv3l1. Cdk12. Rela. Mtmr2. Adnp. Noc3l. Ciapin1. Vps28
+
+Compared against MPPc(15): 
+Zc3h14. Tbc1d5. Slc4a1ap. Sbno1. Supv3l1. Cdk12. Rela. Mtmr2. Ckap5. Mrps31. Ubxn6. Adnp. Hirip3. Ciapin1. Vps28
+
+Compared against CLP(14): 
+Zc3h14. Tbc1d5. Med16. Bin1. Pum1. Ckap5. Zfp143. Adnp. Crip1. Tceb3. Ciapin1. Tyms. Gins2. Klf13
+
+Compared against CMP(13): 
+Zc3h14. Slc4a1ap. Mpo. Sbno1. Anapc4. Cdk12. Rela. Slc7a5. Mtmr2. Ckap5. Adnp. Kti12. Ciapin1
+
+Compared against MEP(11): 
+Fam126a. Slc4a1ap. Sbno1. Supv3l1. Ckap5. Mrps31. Adnp. Mak16. Kti12. Ciapin1. Tyms
+
+Compared against GMP(25): 
+Ncf2. Fam126a. Zc3h14. Mtpap. Tcirg1. Med16. Slc4a1ap. Gmpr. Mpo. Sbno1. Supv3l1. Cdk12. Rin3. Ckap5. Adnp. Hirip3. Ppip5k2. Kti12. Tceb3. Stx18. Ciapin1. Acsl4. Tyms. Gins2. Acaca
+

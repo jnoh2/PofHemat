@@ -1,0 +1,22 @@
+Overexpress is above 4.375594838507587 and underexpress is below -5.481528874341156
+Compared against MPPa(19): 
+Ggct. Fdx1. Tbc1d22a. Mlst8. Ssbp2. Lyz1. Serpina1d. Jup. Icam1. Eya3. Synrg. Krt14. Pde1b. Try10. Optn. Chchd4. Selm. Chmp1a. Atp6ap1
+
+Compared against MPPb(16): 
+Hgfac. Ampd3. Fdx1. Tnfrsf14. Sorbs1. Itih4. Hmga1. Lum. Tuba1a. Jup. Csmd3. Arg1. Dsp. Krt6a. Krt42. Krt17
+
+Compared against MPPc(29): 
+Fn1. Spp2. Comp. Fdx1. Hist2h3c1. Itih4. Trp63. Apoe. Tgm2. Gstm2. Ppic. Krt77. Thbs1. Pros1. Tgfbi. Krt14. Vars2. Ldhd. Cttn. Dsp. Art4. Krt6a. Krt42. Mcur1. Sacs. Krt17. Krt71. Atp6ap1. Krt16
+
+Compared against CLP(44): 
+Itgav. Ckm. Pak1. Hs1bp3. Csad. H2-Aa. Acss2. Ndufs5. Smpdl3a. Serhl. Man2b2. Gypc. Gstt3. Tgm2. Siglec1. Serpinb9. Gpd1. S100a6. Lmna. Lum. Serpina1e. Krt77. Mapkapk3. Cltb. Alcam. Maoa. Tgfbi. Enpp4. Eif4a2. Aldh5a1. Gda. Itga6. Fahd1. Clybl. Hdac8. Nadk2. Krt6a. Krt42. Abcb8. Hemgn. Hdgfrp3. Krt17. Krt71. Atp6ap1
+
+Compared against CMP(31): 
+Ddx3y. Serpinc1. Itgav. Ctbs. Krt10. Fdx1. Apoa1. Csad. Tbc1d22a. H2-Aa. Ahsg. Gstm4. Hspb1. Tgm2. Iigp1. Vtn. Icam1. Serpinh1. Slc9a1. Postn. Isg15. Myl1. Naprt. Tceal5. Itih2. Acad10. Krt6a. Krt42. Gstt1. Krt17. Krt16
+
+Compared against MEP(57): 
+Serpina1b. Ldhb. Pak1. Adgrg1. Comp. Arl2bp. Fdx1. Hs1bp3. Hnmt. Actg1. Sptan1. Fam129a. Nab1. Serpinb6a. Slc2a3. Arid4a. Ripor2. Atp2a1. Wdfy4. Fam3c. Atp2b4. Erg. Lyz2. Casp1. Gng2. Ppp2ca. Nfic. Krt77. Galk2. Kdm5a. Rasa3. Cpne3. Trim47. Pbx1. Epb41l2. Flnb. Rbbp9. Pgm3. Wbscr27. Man2a1. Ago1. Atp2a3. Hdac8. Basp1. Krt42. Rab32. Aldh1b1. Cryl1. Tha1. Tax1bp3. Klc4. Gstk1. Kdelc1. S100a1. Hdgfrp3. Krt17. Ak1
+
+Compared against GMP(36): 
+Pdlim2. Txnrd2. Fdx1. Apoa1. Gns. Sept8. Glipr2. Gstt3. Apoh. Serpinb9. Car2. Gstm2. Nfyb. Serpinh1. Ptk7. Lrrc1. Carhsp1. Krt14. Hmga2. Ganc. Dsp. Eif4a2. Itih2. Tbxas1. Selm. Krt5. Smim8. Acad10. Cnrip1. Krt6a. Ptms. Cryl1. Gstk1. Tpk1. Krt16. Ak1
+

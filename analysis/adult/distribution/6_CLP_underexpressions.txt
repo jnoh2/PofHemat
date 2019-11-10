@@ -1,0 +1,22 @@
+Overexpress is above 4.302021774093565 and underexpress is below -5.0155752798533255
+Compared against HSC(31): 
+Itgav. Pak1. Hs1bp3. Csad. H2-Aa. Ndufs5. Smpdl3a. Gypc. Gstt3. Tgm2. Siglec1. Serpinb9. Gpd1. S100a6. Lmna. Lum. Serpina1e. Krt77. Mapkapk3. Maoa. Enpp4. Aldh5a1. Gda. Fahd1. Hdac8. Nadk2. Krt42. Hemgn. Hdgfrp3. Krt17. Krt71
+
+Compared against MPPa(24): 
+Ckm. Pak1. Ptpre. Hs1bp3. Csad. Dnajc6. Smpdl3a. Tgm2. Oxld1. Siglec1. Gpd1. Lmna. Mapkapk3. Maoa. Mmab. Scamp1. Enpp4. Gda. Fahd1. Clybl. Hemgn. Hdgfrp3. Plod3. Ak4
+
+Compared against MPPb(21): 
+Fam126a. Mrps35. Pak1. Ptpre. Smpdl3a. Gypc. Siglec1. Gpd1. Mapkapk3. Rab43. Maoa. Mmab. Nr2c1. Paxip1. Ibtk. Enpp4. Ppwd1. Fahd1. Hemgn. Hdgfrp3. Ak4
+
+Compared against MPPc(21): 
+Mrps35. Pak1. Ptpre. Hs1bp3. Dnajc6. Smpdl3a. Zfp687. Gypc. Oxld1. Siglec1. Gpd1. Mapkapk3. Rapgef6. Maoa. Nr2c1. Ibtk. Cog2. Ppwd1. Lipe. Hemgn. Ak4
+
+Compared against CMP(25): 
+Mrps35. Ptpre. Mipep. Dnajc6. Smpdl3a. Zfp687. Acsl3. Gypc. Oxld1. Siglec1. Serpina1e. Mapkapk3. Diaph3. Maoa. Atad2b. Paxip1. Ibtk. Enpp4. Cog2. Ppwd1. Kti12. Fahd1. Utp6. Hemgn. Plod3
+
+Compared against MEP(17): 
+Fam126a. Mrps35. Mipep. Pwp2. Dnajc6. Lmna. Mapkapk3. Tal1. Atg2b. Spout1. Enpp4. 1110008L16Rik. Fahd1. Utp6. Clybl. Arl8b. Hemgn
+
+Compared against GMP(35): 
+Iqgap3. Pigk. Fam126a. Mrps35. Clec12a. Pak1. Ptpre. Mipep. Hspa13. Smpdl3a. Cit. Arfip2. Acsl3. Hspa1b. Ctsg. Serpina1e. Mapkapk3. Hk3. Maoa. Cog1. Atad2b. Atg2b. Spout1. Paxip1. Ibtk. Enpp4. Gda. Cog2. Ppwd1. Kti12. Fahd1. Utp6. Plod3. Atp6ap1. Ak4
+

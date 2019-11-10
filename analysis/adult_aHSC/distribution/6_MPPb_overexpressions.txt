@@ -1,0 +1,25 @@
+Overexpress is above 4.922209375732053 and underexpress is below -3.846379066341421
+Compared against HSC(21): 
+Fam126a. Crebbp. Zc3h14. Mtpap. Ctsa. Tcirg1. Slc4a1ap. Mpo. Sbno1. Supv3l1. Cdk12. Rela. Mtmr2. Ckap5. Ubxn6. Adnp. Kti12. Noc3l. Ciapin1. Vps28. Gins2
+
+Compared against aHSC(20): 
+Ezh2. Kmt2d. Parl. Osbpl7. Commd1. Dennd5b. Rnf25. Tlk2. Ly9. Arpp19. Sp140. Knop1. Vps18. Arhgap27. Ccdc117. Timeless. Znf131. Fabp4. Itga4. Ripk2
+
+Compared against MPPa(22): 
+Mapkap1. Ggct. Kmt2d. Tbc1d22a. Mlst8. Sdhaf2. Ntan1. Aff3. Lrch3. Ncoa6. Gmip. Zfp346. Dscr3. Txnl4a. Serpina1d. Atp11b. Rmnd5a. Arfrp1. Cnot11. Lrrc20. Sirt2. Zfp292
+
+Compared against MPPc(6): 
+Hist2h3c1. Osbpl7. Ahsa2. Erich1. Cdk7. Cttn
+
+Compared against CLP(23): 
+Fam126a. Mrps35. Pak1. Ptpre. Smpdl3a. Gypc. Siglec1. Gpd1. Mapkapk3. Rab43. Maoa. Mmab. Nr2c1. Paxip1. Ibtk. Enpp4. Ppwd1. Fahd1. Utp6. Hemgn. Hdgfrp3. Plod3. Ak4
+
+Compared against CMP(12): 
+Itgav. Ctbs. Itga2. Osbpl7. Sytl1. Iigp1. Fchsd2. Mkl2. Isg15. Naprt. Gpsm1. Acad10
+
+Compared against MEP(43): 
+Hnmt. Rptor. Actg1. Arhgap15. Ntan1. Smad4. Fam129a. Serpinb6a. Lrmp. Slc2a3. Arid4a. Ripor2. Atp2a1. Wdfy4. Ripk1. Mpo. Rab2b. Casp1. Ppp2ca. Nfic. Itpr3. Arhgap4. Rab31. Arnt. Rasa3. Cpne3. Ralbp1. Traf3ip3. Pbx1. Epb41l2. Flnb. Zfp609. Strip1. Ago1. Atf7. Atp2a3. Hdac8. Rab32. Tha1. Klc4. Gyg. A830080D01Rik. Ak1
+
+Compared against GMP(18): 
+Pdlim2. Osbpl7. Bcl10. Mff. Cpa3. Nfyb. Hist2h2ac. Capn2. Ptk7. Lrrc1. Carhsp1. Ganc. Camk1. Acad10. Ptms. Tpk1. Padi4. Dennd2d
+

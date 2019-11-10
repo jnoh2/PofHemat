@@ -1,0 +1,25 @@
+Overexpress is above 4.376246405899107 and underexpress is below -5.052828817417711
+Compared against HSC(48): 
+Dock10. Crebbp. Zc3h14. Tbc1d5. Ppp1r14b. Carnmt1. Ctsa. Cdk9. Lig1. Gmeb2. Med16. Slc4a1ap. Mpo. Cux1. Sbno1. Supv3l1. Bin1. Cdk12. Top2a. Rela. Pum1. Nup88. Slc7a5. Brd3. Ckap5. Ddx56. Zfp143. Larp4b. Hist2h2aa1. Coro2a. Adnp. Mak16. Hirip3. Gtf2f1. Ppip5k2. Dock8. Crip1. Tceb3. Rprd1a. Ciapin1. Acsl4. Mrps28. Psmg3. Tyms. Vps28. Gins2. Klf13. Acaca
+
+Compared against aHSC(41): 
+Pomp. Ezh2. Pde2a. Bud13. Kif15. Vps13a. Fgd2. Ppp1r14b. Incenp. Commd1. Actg1. Chaf1b. Pbk. Hells. Tlk2. Cdca8. Arpp19. Csnk1d. Impdh1. Aim2. Knop1. Kif11. Nxn. Vps53. Tapt1. Kat7. Larp4b. Tpm4. Ttc9c. Ccdc117. Gm5409. Timeless. Rybp. Hmces. Washc1. Mical1. Pole. Cdca3. Tacc3. Itga4. Klf13
+
+Compared against MPPa(38): 
+Pik3r4. Lipt2. Pfkfb3. Camk1d. Arl6ip4. Aff3. Ncoa6. Prrc2b. Mark2. Gmip. Zfp346. Kifc1. 2210016L21Rik. Dscr3. Prkcb. Txnl4a. Ung. Ivns1abp. Parp14. Gm1966. Tram1. Maea. Nsa2. Hist2h2aa1. Mrps26. Vrk2. Tpx2. Rybp. Irgq. Cdca3. Gemin6. Ndc80. Zfp292. 2310011J03Rik. Selenok. Cyth1. Bub1b. Ppp1r10
+
+Compared against MPPb(25): 
+Mef2c. Rad51ap1. Milr1. Phactr2. Lck. Rrm2. Racgap1. Knstrn. Aurkb. Tuba1a. Jup. Plk1. Dnajc1. Zfp280c. Stk17b. Tpx2. Rybp. Taf6l. Egln1. Mef2d. Kif2c. Pclaf. Rpl35a. Rnf4. Bub1b
+
+Compared against MPPc(11): 
+Pde2a. Actg1. Tifa. Trp53. Cdk7. Chek2. Vars2. Cttn. Cbx4. Mef2d. Fam134c
+
+Compared against CMP(11): 
+Pde2a. Ahsg. Sytl1. Evl. Serpinh1. Slc27a1. Pld4. Foxo1. Gpsm1. Cenpk. Nucb2
+
+Compared against MEP(37): 
+Cnn3. Kctd12. Map4k1. Milr1. Pycr1. Madd. Actg1. Camk1d. Whsc1. Arhgap15. Arhgap25. Arl6ip4. Lrmp. Ripor2. Chil3. Wdfy4. Ifnar2. Bin1. Ess2. Casp1. Ppp2ca. Arhgap4. Ctsc. Arnt. Rasa3. Cpne3. Fam111a. Traf3ip3. Tapt1. Rab27a. Dnajc1. Epb41l2. Flnb. Aldh1b1. Tax1bp3. Klc4. Gyg
+
+Compared against GMP(20): 
+Pdlim2. Mef2c. Lin52. Myl4. Plekha2. Nfyb. Serpinh1. Pbx2. Tapt1. Slc27a1. Carhsp1. Gm5409. Fbxo5. Trim65. Satb1. Ptms. Nusap1. Bcl11a. Krt16. LOC108167440
+

@@ -1,0 +1,10 @@
+Overexpress is above 3.854415454408359 and underexpress is below -5.4773011258049085
+Compared against HSC(3): 
+Ggct. Tbc1d22a. Jup
+
+Compared against MPPb(13): 
+Mapkap1. Ggct. Tbc1d22a. Mlst8. Ntan1. Aff3. Zfp346. Dscr3. Hist2h2aa1. Atp11b. Lrrc20. Optn. Zfp292
+
+Compared against MPPc(31): 
+Pik3r4. Mapkap1. Repin1. Mlst8. Sdhaf2. Ntan1. Aff3. Gtf2h1. Ncoa6. Atxn7l3. Chil3. Zfp346. Rhot2. Ngp. Zfand5. Car2. S100a8. Eya3. Dcp1b. Tram1. Maea. Ltf. Synrg. Atp11b. Rmnd5a. Dhx29. Ank3. Lrrc20. Sirt2. Zfp292. Tcf20
+

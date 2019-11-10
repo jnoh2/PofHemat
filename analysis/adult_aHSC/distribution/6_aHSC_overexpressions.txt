@@ -1,0 +1,25 @@
+Overexpress is above 4.3848324472921085 and underexpress is below -4.68717965334401
+Compared against HSC(22): 
+Fam126a. Crebbp. Zc3h14. Ctsa. Med16. Slc4a1ap. Gmpr. Supv3l1. St3gal1. Anapc4. Cdk12. Pum1. Ckap5. Dusp23. Adnp. Mak16. Kti12. Rprd1a. Ciapin1. Acsl4. Mrps28. Vps28
+
+Compared against MPPa(33): 
+Mapkap1. Lipt2. Mlst8. Tkfc. Lrch3. Serpinb8. Bcas3. Zfp346. Pkn2. Dscr3. Arhgap6. Zfand5. Krt18. St3gal1. Txnl4a. Serpina1d. Ivns1abp. Icam1. Eya3. Lrch2. Synrg. Rgn. Ldhd. Mrps26. Tbc1d10a. Optn. Sirt2. Selm. Chmp1a. Mrps15. Selenok. Clca3a1. Srr
+
+Compared against MPPb(13): 
+Tfr2. Ampd3. Mpp5. Sorbs1. Syn1. Krt18. S100a6. St3gal1. Jup. Hif1an. Gda. Shtn1. Taf6l
+
+Compared against MPPc(15): 
+Itgav. Fam213b. Mboat7. Apoe. Tgm2. Trp53. Gstm2. Prkca. Hectd3. Chek2. Vars2. Ldhd. Cttn. Art4. Rfxank
+
+Compared against CLP(48): 
+Itgav. Fam126a. Pak1. Hs1bp3. Ncapg2. Myof. Tatdn1. Csad. Smpdl3a. Zfp687. Arfip2. Serpinb6a. Serhl. Gypc. Gstt3. Tgm2. Siglec1. Serpinb9. S100a6. Hspa1b. Lmna. Mapkapk3. Rab43. Pdlim5. Eif4ebp1. Cltb. Nlrx1. Maoa. Asah1. Scamp1. Paxip1. Pbx1. H1fx. Enpp4. Aldh5a1. Gda. Rad23a. Itga6. 1110008L16Rik. Fahd1. Clybl. Nadk2. Rgs19. Ccdc97. Hemgn. Hdgfrp3. Acot9. Ak4
+
+Compared against CMP(26): 
+Itgav. Ctbs. Krt10. Myof. Csad. H2-Ab1. Sytl1. Dcaf11. Serpinb6a. Tgm2. Iigp1. Aldh1a1. Serpinh1. Fchsd2. Cd82. Mkl2. Slc27a1. Isg15. Gbp5. Hsdl1. Naprt. Tceal5. Acad10. Gstt1. S100a1. Dennd2d
+
+Compared against MEP(65): 
+Ldhb. Pak1. Rab38. Adgrg1. Hs1bp3. Zbp1. Hnmt. Madd. Rfx5. Fam129a. Nab1. Serpinb6a. Slc2a3. Hk2. Arid4a. Ripor2. Rpusd4. Wdfy4. Ripk1. Rab2b. Atp2b4. Erg. Dlgap4. Gmds. Casp1. Kmt2a. Ppp2ca. Nfic. Itpr3. Arhgap4. Itprip. Plcb3. Pip4p1. Rab31. Galk2. H1f0. Asah1. Cpne3. Trim47. Traf3ip3. Rab27a. Crad. Pbx1. Flnb. Slc25a24. Hsdl1. Strip1. Fam120c. Ccdc90b. F8a. Ago1. Atf7. Atp2a3. Acy3. Basp1. Rab32. Tha1. Tax1bp3. Klc4. S100a1. Hdgfrp3. Clca3a1. Slc25a20. Gyg. Ak1
+
+Compared against GMP(34): 
+Pdlim2. Cdk17. Gns. Nudt14. Mtif3. H2-T23. Glipr2. Nab1. Fyb. Rpusd4. Adck3. Gstt3. Car2. Gstm2. St3gal1. Itgb3. Serpinh1. H1f0. Lyplal1. Ptk7. Lrrc1. Hmga2. Ganc. Tbxas1. Selm. Acad10. Pdzd11. Ptms. Sgsh. Fbxo6. Tpk1. Padi4. Dennd2d. Ak1
+

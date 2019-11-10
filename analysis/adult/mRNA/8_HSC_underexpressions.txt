@@ -1,0 +1,10 @@
+Overexpress is above 2.9457307625227935 and underexpress is below -5.3639219149283095
+Compared against MPPa(13): 
+Zc3h14. Mtpap. Zfp334. Ndufs5. Slc4a1ap. Supv3l1. Rela. Cd82. Mrps31. Adnp. Rbm14. Mrps28. H2-Q8
+
+Compared against MPPb(13): 
+Fam126a. Zc3h14. Slc4a1ap. Supv3l1. Anapc4. Cdk12. Rela. Mtmr2. Ubxn6. Adnp. Gimap8. Noc3l. Ciapin1
+
+Compared against MPPc(25): 
+Zc3h14. Mtpap. Slc4a1ap. Chil3. Gmpr. Sbno1. Dvl2. Supv3l1. Ngp. Car2. Cramp. Cdk12. Ogfod1. Rela. Pum1. S100a9. Mtmr2. Ckap5. Ubxn6. Adnp. Hirip3. Tceb3. Ank3. Ciapin1. Acsl4
+

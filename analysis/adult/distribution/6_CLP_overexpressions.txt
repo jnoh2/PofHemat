@@ -1,0 +1,22 @@
+Overexpress is above 4.302021774093565 and underexpress is below -5.0155752798533255
+Compared against HSC(49): 
+Dock10. Crebbp. Zc3h14. Tbc1d5. Ppp1r14b. Carnmt1. Ctsa. Cdk9. Lig1. Gmeb2. Med16. Slc4a1ap. Mpo. Cux1. Sbno1. Supv3l1. Bin1. Aarsd1. Cdk12. Top2a. Rela. Pum1. Nup88. Slc7a5. Brd3. Ckap5. Ddx56. Zfp143. Larp4b. Hist2h2aa1. Coro2a. Adnp. Mak16. Hirip3. Gtf2f1. Ppip5k2. Dock8. Crip1. Tceb3. Rprd1a. Ciapin1. Acsl4. Mrps28. Psmg3. Tyms. Vps28. Gins2. Klf13. Acaca
+
+Compared against MPPa(41): 
+Pik3r4. Lipt2. Brd2. Pfkfb3. Camk1d. Arl6ip4. Aff3. Ncoa6. Prrc2b. Mark2. Gmip. Zfp346. Kifc1. 2210016L21Rik. Dscr3. Prkcb. Txnl4a. Ung. Ivns1abp. Parp14. Gm1966. Tram1. Kif22. Maea. Nsa2. Hist2h2aa1. Mrps26. Vrk2. Tpx2. Rybp. Irgq. Cdca3. Slc29a3. Gemin6. Ndc80. Zfp292. 2310011J03Rik. Selenok. Cyth1. Bub1b. Ppp1r10
+
+Compared against MPPb(29): 
+Cnn3. Mef2c. Rad51ap1. Milr1. Itih4. Phactr2. Lck. Rrm2. Racgap1. Knstrn. Aurkb. Tuba1a. Jup. Plk1. Dnajc1. Tpm4. Zfp280c. Stk17b. Tpx2. Rybp. Taf6l. Egln1. Mef2d. Cdca3. Kif2c. Pclaf. Rpl35a. Rnf4. Bub1b
+
+Compared against MPPc(12): 
+Pde2a. Actg1. Tifa. Trp53. Prkca. Cdk7. Chek2. Vars2. Cttn. Cbx4. Mef2d. Fam134c
+
+Compared against CMP(12): 
+Pde2a. Ahsg. Sytl1. Evl. Serpinh1. Gimap9. Slc27a1. Pld4. Foxo1. Gpsm1. Cenpk. Nucb2
+
+Compared against MEP(41): 
+Cnn3. Kctd12. Map4k1. Milr1. Pycr1. Madd. Actg1. Camk1d. Whsc1. Arhgap15. Arhgap25. Arl6ip4. Fam76b. Lrmp. Ripor2. Chil3. Wdfy4. Ifnar2. Rab2b. Bin1. Ess2. Casp1. Ppp2ca. Arhgap4. Ctsc. Dpp4. Arnt. Rasa3. Cpne3. Fam111a. Traf3ip3. Tapt1. Rab27a. Dnajc1. Epb41l2. Flnb. Limd2. Aldh1b1. Tax1bp3. Klc4. Gyg
+
+Compared against GMP(20): 
+Pdlim2. Mef2c. Lin52. Myl4. Plekha2. Nfyb. Serpinh1. Pbx2. Tapt1. Slc27a1. Carhsp1. Gm5409. Fbxo5. Trim65. Satb1. Ptms. Nusap1. Bcl11a. Krt16. LOC108167440
+

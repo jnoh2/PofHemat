@@ -1,0 +1,25 @@
+Overexpress is above 4.5880863140567305 and underexpress is below -5.410753311522046
+Compared against HSC(21): 
+Serpina1b. Pak1. Adgrg1. Comp. Hs1bp3. Hnmt. Serpinb6a. Arid4a. Ripor2. Atp2a1. Casp1. Krt77. Rasa3. Flnb. Hdac8. Krt42. Cryl1. Tha1. Hdgfrp3. Krt17. Ak1
+
+Compared against aHSC(28): 
+Adgrg1. Hnmt. Nab1. Serpinb6a. Slc2a3. Hk2. Ripor2. Rpusd4. Wdfy4. Rab2b. Casp1. Nfic. Itpr3. Arhgap4. Trim47. Traf3ip3. Pbx1. Flnb. Strip1. F8a. Ago1. Atf7. Basp1. Rab32. Tha1. S100a1. Gyg. Ak1
+
+Compared against MPPa(23): 
+Adgrg1. Hnmt. Actg1. Serpinb6a. Arid4a. Ripor2. Atp2a1. Wdfy4. Casp1. Nfic. Arhgap4. Rab31. Rasa3. Pvalb. Pbx1. Epb41l2. Flnb. Strip1. Atf7. Rab32. Tha1. Klc4. Ak1
+
+Compared against MPPb(25): 
+Hnmt. Actg1. Smad4. Serpinb6a. Ripor2. Atp2a1. Wdfy4. Rab2b. Casp1. Nfic. Itpr3. Arhgap4. Arnt. Rasa3. Traf3ip3. Epb41l2. Flnb. Strip1. Ago1. Atf7. Rab32. Tha1. Gyg. A830080D01Rik. Ak1
+
+Compared against MPPc(25): 
+Golga4. Arhgap15. Ntan1. Smad4. Ripor2. Wdfy4. Ripk1. Rab2b. Nfic. Itpr3. Arhgap4. Arnt. Rasa3. Ralbp1. Morc2a. Epb41l2. Flnb. Strip1. Ccdc90b. F8a. Rab32. Tha1. Klc4. A830080D01Rik. Ak1
+
+Compared against CLP(10): 
+Actg1. Ripor2. Wdfy4. Ess2. Arhgap4. Arnt. Dnajc1. Epb41l2. Flnb. Tax1bp3
+
+Compared against CMP(14): 
+Rab44. Ripor2. Wdfy4. Mpo. Rab2b. Itpr3. Arhgap4. Arnt. Zfp64. Flnb. Strip1. Atf7. A830080D01Rik. Ak1
+
+Compared against GMP(25): 
+Rab44. Hnmt. Arhgap15. Hk2. Ripor2. Ripk1. Mpo. Jarid2. Casp1. Rab31. Fam111a. Dnajc1. Rabac1. Ckap2l. Flnb. Pgm3. Mcm10. Pnisr. Ankrd11. Strip1. Man2a1. Atp6ap2. Rab32. Gsg2. A830080D01Rik
+
