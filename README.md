@@ -1,6 +1,6 @@
 # PofHemat
 
-For : ZaroNoh et al., 2019
+For : ZaroNoh et al., 2020
 Manuscript title : Mass spectrometry analysis of mouse hematopoietic stem cells and their progenitors reveals
     differential expression within and between proteom and transcriptome throughout adult and aged hematopoiesis
 Last edited : 11/08/2019 [README is still being updated]
