@@ -3,10 +3,10 @@
 For : ZaroNoh et al., 2020
 Manuscript title : Mass spectrometry analysis of mouse hematopoietic stem cells and their progenitors reveals
     differential expression within and between proteom and transcriptome throughout adult and aged hematopoiesis
-Last edited : 11/08/2019 [README is still being updated]
+Last edited : 12/29/2021 [README is still being updated]
 
 For further inquiries, please e-mail the corresponding e-mail available on
-the bioRxiv submission.
+the e-Life publication.
 
 github.com/jnoh4/PofHemat
 
@@ -61,8 +61,6 @@ uniques      - contains information on unique proteomic expression of genes for 
 (4a) 4a_2-D_pca_adult_aHSC.py           - Perform PCA on the compiled ata, using the adult data plus the aged HSC data.
 (5)  5_1-D_pca_adult.py                 - Plot the projection of the PCA centroid values for each cell type onto each PC.
 (5a) 5a_1-D_pca_adult_aHSC.py           - Repeat the procedure in (5) .py file, but including the aged HSC data.
-(6)  6_GMM_adult.py                     - Determine K = 2 GMM parameters for protein comparisons and analyze the model using QQ-plot & the relevant pearson correlation.
-(6a) 6a_GMM_adult_aHSC.py               - Repeat the procedure in (6) .py file, but including the aged HSC data.
 (7)  7_unique_adult.py                  - Find unique protein expressions for different combinations of cell types
 (8)  8_mRNA_adult.py                    - Determine K = 2 GMM parameters for protein/mRNA and analyze the model using QQ-plot & the relevant pearson correlation.
 (9)  9_final_graph.py                   - Using GMM parameters determined in (6) .py file, plot distributions against histogram and indicate cutoff values.
